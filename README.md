@@ -1,6 +1,6 @@
- Moment调查结果 调查⽬目的
+Moment调查结果 调查⽬目的
 Moment是否可持续后台，耗电情况，是否能⾃自动启动，底层实现⽅方式。 应⽤用介绍
- 
+https://github.com/ChinaChailu/LocationAutomaticStartup/blob/master/11492766723_.pic_hd.jpg 
   功能:
   实现应⽤用⻓长时间驻留留后台。
   实现应⽤用在不不主动打开的情况下，⾃自动启动
