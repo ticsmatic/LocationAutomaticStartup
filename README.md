@@ -1,3 +1,15 @@
+
+
+
+使用方法：使用真机测试，将应用退出到后台，并关闭应用，当你的位置发生变化，比如从公司到家的路上，就会自动激活这个软件
+
+
+
+下面的是一些 Api的 一些调研
+
+
+
+
 Moment调查结果 调查⽬目的
 Moment是否可持续后台，耗电情况，是否能⾃自动启动，底层实现⽅方式。 应⽤用介绍
 ![图片](https://github.com/ChinaChailu/LocationAutomaticStartup/blob/master/11492766723_.pic_hd.jpg)
