@@ -1,6 +1,8 @@
 Moment调查结果 调查⽬目的
 Moment是否可持续后台，耗电情况，是否能⾃自动启动，底层实现⽅方式。 应⽤用介绍
 ![图片](https://github.com/ChinaChailu/LocationAutomaticStartup/blob/master/11492766723_.pic_hd.jpg)
+
+
   功能:
   实现应⽤用⻓长时间驻留留后台。
   实现应⽤用在不不主动打开的情况下，⾃自动启动
@@ -64,6 +66,7 @@ NSLog(@"开始定位"); self.isStartUpdatingLocation = YES; [self startUpdatingL
 利利⽤用此API可实现的功能
 1、实现后台驻留留
 2、实现⾃自动启动 3、实现⽤用户回家后，⾃自动开始睡眠监测
+![图片](https://github.com/ChinaChailu/LocationAutomaticStartup/blob/master/IMG_2415.PNG)
 尚未解决的问题
 1、如果⽤用户主动退出后，⻓长时间没有移动，⼀一直驻留留在同⼀一个位置，⽆无法⾃自动启动 尚⽆无法解决 2、耗电，当前耗电量量 ⽆无法达到Moment 那样 ⼀一天的耗电量量仅为 5% 3、如果⽤用户开启⻜飞⾏行行模式，⽆无法实现后台驻留留，⾃自动启动
 4、如果⽤用户关闭 定位权限 ⽆无法实现后台驻留留，⾃自动启动
